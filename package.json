@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RobinWM/validate-untils/issues"
   },
-  "homepage": "https://github.com/RobinWM/validate-untils#readme"
+  "homepage": "https://github.com/RobinWM/validate-untils#readme",
+  "devDependencies": {
+    "rollup": "^2.79.0"
+  }
 }
