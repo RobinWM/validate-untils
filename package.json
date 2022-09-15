@@ -19,5 +19,8 @@
   "homepage": "https://github.com/RobinWM/validate-untils#readme",
   "devDependencies": {
     "rollup": "^2.79.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
